@@ -50,5 +50,7 @@ Additional Refs (Marzuq):
 	•	Google Fonts (https://fonts.google.com/selection/embed)
 	•	https://www.sasmonash.com/
 	•	Monash University Clayton FIT1050 2026 Sem 1 class/content/edstem forum discussions
+	•	https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+	•	https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
      
 	
