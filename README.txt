@@ -44,7 +44,11 @@ Credits:
 Additional Refs (Marzuq):
 	• 	https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
 	•	https://chatgpt.com/share/6a12f6c3-5100-83ec-8890-41b51c224152
-	•	Math.random() - JavaScript | MDN
+	•	https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
 	•	https://stackoverflow.com/a/3269148
 	•	https://stackoverflow.com/a/53792614
 	•	Google Fonts (https://fonts.google.com/selection/embed)
+	•	https://www.sasmonash.com/
+	•	Monash University Clayton FIT1050 2026 Sem 1 class/content/edstem forum discussions
+     
+	
